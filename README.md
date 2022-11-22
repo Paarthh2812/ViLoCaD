@@ -1,5 +1,5 @@
 # ViLoCaD
-Minor Project - Video Look Camera Door
+Minor Project - Video Look Camera Door [Report](https://github.com/Paarthh2812/ViLoCaD/blob/994606c863382264dd65b7ad20bc3fc13dda26c9/Report%20ViLoCaD.pdf)
 
 [Server.py](https://github.com/Paarthh2812/ViLoCaD/blob/27a0c941a6ed0dc59f6949f08508818cb56b4e72/Server.py) - for Starting Server at the Given IP Address, using HTTP Protocol
 
